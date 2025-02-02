@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.05}],"iconIndex":97,"name":"Lâminas Sísmicas","note":"","params":[0,0,10,5,0,0,0,0],"price":500,"wtypeId":14},
+{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.05}],"iconIndex":99,"name":"Machado de Impacto","note":"","params":[0,0,10,5,0,0,0,0],"price":500,"wtypeId":4},
+{"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.05}],"iconIndex":100,"name":"Chicote de Plasma","note":"","params":[0,0,10,5,0,0,0,0],"price":500,"wtypeId":5},
+{"id":4,"animationId":29,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.05}],"iconIndex":102,"name":"Arco de Elétrons","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":7},
+{"id":5,"animationId":115,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.05}],"iconIndex":115,"name":"Espingarda Raios","note":"","params":[0,0,20,0,0,0,0,0],"price":1000,"wtypeId":19},
+{"id":6,"animationId":111,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.05}],"iconIndex":116,"name":"Rifle de Plasma","note":"","params":[0,0,30,0,0,0,0,0],"price":1500,"wtypeId":17},
+{"id":7,"animationId":111,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.05}],"iconIndex":115,"name":"Canhão de Partículas","note":"","params":[0,0,40,0,0,0,0,0],"price":2000,"wtypeId":15},
+{"id":8,"animationId":23,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.05}],"iconIndex":117,"name":"Motossera de Impacto","note":"","params":[0,0,50,10,0,0,0,0],"price":2500,"wtypeId":13},
+{"id":9,"animationId":25,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.05}],"iconIndex":112,"name":"Espadas Energéticas","note":"","params":[0,0,60,20,0,0,0,0],"price":3000,"wtypeId":14},
+{"id":10,"animationId":24,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.05}],"iconIndex":111,"name":"Corrente de Elétrons","note":"","params":[0,0,50,10,0,0,0,0],"price":3000,"wtypeId":20}
+]
