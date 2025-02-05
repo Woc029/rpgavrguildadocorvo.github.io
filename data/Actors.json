@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"Astrid Lutando","characterIndex":0,"characterName":"Astrid Andando","classId":2,"equips":[11,0,0,0,0],"faceIndex":0,"faceName":"Astrid Rosto","traits":[{"code":51,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":6,"name":"ASTRID","nickname":"ASTRID","note":"","profile":"Astrid, filha do Arquimago Mergo e da Magistrada Zoe."},
+{"id":2,"battlerName":"ROBÔBLUECOMBATE","characterIndex":0,"characterName":"ROBÔ_BLUE","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":24,"name":"ADA","nickname":"","note":"","profile":"Robô criada por Inova Asimov em sua pesquisa de\nrobótica aplicada na FGRI em 2023."},
+{"id":3,"battlerName":"ROBÔGREENCOMBATE","characterIndex":0,"characterName":"ROBÔ_GREEN","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":24,"name":"AUGUSTA","nickname":"","note":"","profile":"Robô criada por Inova Asimov em sua pesquisa de\nrobótica aplicada na FGRI em 2023."},
+{"id":4,"battlerName":"ROBÔPINKCOMBATE","characterIndex":0,"characterName":"ROBÔ_PINK","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":24,"name":"LOVELACE","nickname":"","note":"","profile":"Robô criada por Inova Asimov em sua pesquisa de\nrobótica aplicada na FGRI em 2023."},
+{"id":5,"battlerName":"ROBÔREDCOMBATE","characterIndex":0,"characterName":"ROBÔ_RED","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":24,"name":"CONDESSA","nickname":"","note":"","profile":"Robô criada por Inova Asimov em sua pesquisa de\nrobótica aplicada na FGRI em 2023."}
+]
