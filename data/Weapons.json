@@ -19,5 +19,5 @@ null,
 {"id":17,"animationId":19,"description":"10 de ataque físico, 35 espiritual e 5 de defesa","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.05}],"iconIndex":100,"name":"Chicote de Gelo","note":"","params":[0,0,10,5,35,0,0,0],"price":220,"wtypeId":5},
 {"id":18,"animationId":66,"description":"60 de ataque físico espiritual, 50 de ataque físico e 20 de defesa","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.05}],"iconIndex":112,"name":"Espada de Fogo","note":"","params":[0,0,60,20,50,0,0,0],"price":1500,"wtypeId":14},
 {"id":19,"animationId":65,"description":"70 de ataque espiritual","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.05}],"iconIndex":107,"name":"Cajado do Necromante","note":"","params":[0,0,0,0,70,10,0,0],"price":400,"wtypeId":6},
-{"id":20,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+{"id":20,"animationId":41,"description":"20 de ataque espiritual","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.05}],"iconIndex":107,"name":"Cajado Sagrado","note":"","params":[0,0,0,0,20,0,0,0],"price":75,"wtypeId":6}
 ]
